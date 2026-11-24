@@ -1,0 +1,8 @@
+# Local slicer outputs
+*.gcode
+*.bgcode
+*.gcode.3mf
+
+# Editor/OS scratch files
+*.scad~
+.DS_Store
